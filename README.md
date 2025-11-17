@@ -93,29 +93,25 @@
            alt="Paris - Eiffel Tower"
            class="w-full h-64 object-cover rounded-xl mb-4 shadow">
       <h3 class="text-2xl font-semibold">Paris — City of Lights</h3>
-      <p>Stroll along the Seine, sip coffee in Montmartre and admire
-         the Eiffel Tower's twinkling lights. Ideal for romance, art
-         lovers and anyone who appreciates croissants.</p>
+      <p>Stroll along the Seine, sip coffee in Montmartre and admire the Eiffel Tower's twinkling lights. Ideal for romance, art lovers and anyone who appreciates croissants.</p>
     </article>
     
     <!-- TOKYO (SENSO-JI TEMPLE) -->
     <article id="tokyo" class="prose max-w-none">
-      <img src="https://images.unsplash.com/photo-1549692520-98e88f2d9b32"
+      <img src="https://images.unsplash.com/photo-1549692520-acc6669e2f0c"
            alt="Tokyo - Sensoji Temple"
            class="w-full h-64 object-cover rounded-xl mb-4 shadow">
       <h3 class="text-2xl font-semibold">Tokyo — Neon Metropolis</h3>
-      <p>From Shibuya crossings to tranquil temples, Tokyo blends futurism
-         with tradition. Foodies will adore the ramen alleyways and izakaya culture.</p>
+      <p>From Shibuya crossings to tranquil temples, Tokyo blends futurism with tradition. Foodies will adore the ramen alleyways and izakaya culture.</p>
     </article>
     
     <!-- ROME (COLOSSEUM) -->
     <article id="rome" class="prose max-w-none">
-      <img src="https://images.unsplash.com/photo-1506806732259-39c2d0268443"
+      <img src="https://images.unsplash.com/photo-1523473827532-9a1d9919a70f"
            alt="Rome - Colosseum"
            class="w-full h-64 object-cover rounded-xl mb-4 shadow">
       <h3 class="text-2xl font-semibold">Rome — Ancient Wonders</h3>
-      <p>Walk the Colosseum, toss a coin into Trevi Fountain, and savor world-class
-         gelato in narrow cobbled streets.</p>
+      <p>Walk the Colosseum, toss a coin into Trevi Fountain, and savor world-class gelato in narrow cobbled streets.</p>
     </article>
     
     <!-- CAPE TOWN (TABLE MOUNTAIN) -->
@@ -124,8 +120,7 @@
            alt="Cape Town - Table Mountain"
            class="w-full h-64 object-cover rounded-xl mb-4 shadow">
       <h3 class="text-2xl font-semibold">Cape Town — Coastal Charm</h3>
-      <p>From Table Mountain views to rugged coastlines, Cape Town is a dream
-         for outdoor lovers and wine enthusiasts alike.</p>
+      <p>From Table Mountain views to rugged coastlines, Cape Town is a dream for outdoor lovers and wine enthusiasts alike.</p>
     </article>
     
     <!-- LOS ANGELES (HOLLYWOOD SIGN) -->
@@ -134,9 +129,9 @@
            alt="Los Angeles - Hollywood Sign"
            class="w-full h-64 object-cover rounded-xl mb-4 shadow">
       <h3 class="text-2xl font-semibold">Los Angeles — Golden Dreams</h3>
-      <p>Sun, beaches and iconic entertainment — LA offers a taste of Hollywood
-         glamour along with diverse neighborhoods and cuisine.</p>
+      <p>Sun, beaches and iconic entertainment — LA offers a taste of Hollywood glamour along with diverse neighborhoods and cuisine.</p>
     </article>
+
 
 
 
