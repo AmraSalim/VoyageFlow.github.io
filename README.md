@@ -26,7 +26,7 @@
     <!-- PAGE 1: Registration -->
     <section id="page-register" class="page bg-white rounded-2xl shadow-lg my-8 p-8">
       <h1 class="text-3xl font-extrabold mb-2">VoyageFlow</h1>
-      <p class="text-slate-600 mb-6">Create your account to start a simulated journey — no backend required.</p>
+      <p class="text-slate-600 mb-6">Create your account to start a simulated journey.</p>
 
       <form id="regForm" class="grid grid-cols-1 md:grid-cols-2 gap-4">
         <div>
