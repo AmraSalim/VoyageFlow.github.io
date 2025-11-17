@@ -108,7 +108,7 @@
         </article>
 
         <article id="lax" class="prose max-w-none">
-          <img src="https://images.unsplash.com/photo-1504274066651-8d31a536b11a"
+          <img src="https://rare-gallery.com/thumbs/864481-Golden-Gate-Bridge-USA-Bridges-Los-Angeles-California.jpg"
           alt="Los Angeles - Hollywood Sign"
           class="w-full h-64 object-cover rounded-xl mb-4 shadow">
           <h3 class="text-2xl font-semibold">Los Angeles — Golden Dreams</h3>
