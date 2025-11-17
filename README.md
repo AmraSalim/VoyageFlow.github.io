@@ -90,74 +90,54 @@
     <!-- PARIS -->
     <article id="paris" class="prose max-w-none">
       <img src="https://images.unsplash.com/photo-1502602898657-3e91760cbb34"
-           alt="Paris"
+           alt="Paris - Eiffel Tower"
            class="w-full h-64 object-cover rounded-xl mb-4 shadow">
       <h3 class="text-2xl font-semibold">Paris — City of Lights</h3>
       <p>Stroll along the Seine, sip coffee in Montmartre and admire
-         the Eiffel Tower's twinkling lights. Ideal for romance,
-         art lovers, and anyone who appreciates croissants.</p>
+         the Eiffel Tower's twinkling lights. Ideal for romance, art
+         lovers and anyone who appreciates croissants.</p>
     </article>
     
-    <!-- TOKYO -->
+    <!-- TOKYO (SENSO-JI TEMPLE) -->
     <article id="tokyo" class="prose max-w-none">
-      <img src="https://images.unsplash.com/photo-1505064193478-59a0c9d379ab"
-           alt="Tokyo"
+      <img src="https://images.unsplash.com/photo-1549692520-98e88f2d9b32"
+           alt="Tokyo - Sensoji Temple"
            class="w-full h-64 object-cover rounded-xl mb-4 shadow">
       <h3 class="text-2xl font-semibold">Tokyo — Neon Metropolis</h3>
-      <p>Tokyo perfectly blends ancient tradition with ultra-modern city life.
-         Explore Asakusa’s Senso-ji Temple, witness the world-famous Shibuya Crossing,
-         and enjoy authentic Japanese ramen streets in Shinjuku. From anime culture
-         in Akihabara to peaceful cherry blossom parks, Tokyo offers a unique mix of
-         technology, fashion, food, and spirituality.</p>
-      <p>Whether you're exploring bustling night markets or relaxing at an onsen,
-         every corner of Tokyo tells a story of innovation and cultural heritage.</p>
+      <p>From Shibuya crossings to tranquil temples, Tokyo blends futurism
+         with tradition. Foodies will adore the ramen alleyways and izakaya culture.</p>
     </article>
     
-    <!-- ROME -->
+    <!-- ROME (COLOSSEUM) -->
     <article id="rome" class="prose max-w-none">
-      <img src="https://images.unsplash.com/photo-1523473827532-9a1d9919a70f"
-           alt="Rome"
+      <img src="https://images.unsplash.com/photo-1506806732259-39c2d0268443"
+           alt="Rome - Colosseum"
            class="w-full h-64 object-cover rounded-xl mb-4 shadow">
       <h3 class="text-2xl font-semibold">Rome — Ancient Wonders</h3>
-      <p>Rome is a living open-air museum. Walk through history as you explore
-         the Roman Forum, the mighty Colosseum, and centuries-old basilicas.
-         The city is filled with marble statues, artistic fountains,
-         and breathtaking architecture at every turn.</p>
-      <p>Indulge in authentic Italian pasta, wood-fired pizza, and creamy gelato
-         while wandering through charming cobblestone streets. A visit to
-         Vatican City, St. Peter’s Basilica, and the Sistine Chapel
-         completes the timeless Roman experience.</p>
+      <p>Walk the Colosseum, toss a coin into Trevi Fountain, and savor world-class
+         gelato in narrow cobbled streets.</p>
     </article>
     
-    <!-- CAPE TOWN -->
+    <!-- CAPE TOWN (TABLE MOUNTAIN) -->
     <article id="cape" class="prose max-w-none">
-      <img src="https://images.unsplash.com/photo-1523805009345-7448845a9e53"
-           alt="Cape Town"
+      <img src="https://images.unsplash.com/photo-1501594907352-04cda38ebc29"
+           alt="Cape Town - Table Mountain"
            class="w-full h-64 object-cover rounded-xl mb-4 shadow">
       <h3 class="text-2xl font-semibold">Cape Town — Coastal Charm</h3>
-      <p>Cape Town is one of the world’s most scenic destinations, known for
-         its breathtaking Table Mountain, golden beaches, and vibrant culture.
-         Explore the colorful houses of Bo-Kaap, enjoy African cuisine,
-         and take a cable car ride for panoramic city views.</p>
-      <p>Adventure lovers can hike rugged cliffs, visit penguins at Boulders Beach,
-         or explore the world-famous Cape Winelands. Cape Town blends
-         natural beauty, wildlife experiences, and rich heritage.</p>
+      <p>From Table Mountain views to rugged coastlines, Cape Town is a dream
+         for outdoor lovers and wine enthusiasts alike.</p>
     </article>
     
-    <!-- LOS ANGELES -->
+    <!-- LOS ANGELES (HOLLYWOOD SIGN) -->
     <article id="lax" class="prose max-w-none">
-      <img src="https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1"
-           alt="Los Angeles"
+      <img src="https://images.unsplash.com/photo-1504274066651-8d31a536b11a"
+           alt="Los Angeles - Hollywood Sign"
            class="w-full h-64 object-cover rounded-xl mb-4 shadow">
       <h3 class="text-2xl font-semibold">Los Angeles — Golden Dreams</h3>
-      <p>Los Angeles is the heart of entertainment, creativity, and sunshine.
-         Walk along the Hollywood Walk of Fame, hike to the iconic Hollywood Sign,
-         and explore world-famous film studios like Universal and Warner Bros.</p>
-      <p>Relax on Venice Beach, surf at Malibu, or enjoy luxury shopping in Beverly Hills.
-         LA’s multicultural neighborhoods offer everything from Mexican street food
-         to Korean BBQ and vegan Californian cuisine.</p>
-      <p>The city perfectly blends glamour, global culture, and coastal beauty.</p>
+      <p>Sun, beaches and iconic entertainment — LA offers a taste of Hollywood
+         glamour along with diverse neighborhoods and cuisine.</p>
     </article>
+
 
 
 
