@@ -136,6 +136,7 @@
 
 
 
+
     <!-- PAGE 3: Itinerary & Price Calculator -->
     <section id="page-planner" class="page bg-white rounded-2xl shadow-lg my-8 p-8 hidden-pane">
       <h2 class="text-2xl font-bold mb-4">Build Your Trip</h2>
