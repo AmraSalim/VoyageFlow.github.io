@@ -26,7 +26,7 @@
     <!-- PAGE 1: Registration -->
     <section id="page-register" class="page bg-white rounded-2xl shadow-lg my-8 p-8">
       <h1 class="text-3xl font-extrabold mb-2">VoyageFlow</h1>
-      <p class="text-slate-600 mb-6">Create your account to start a simulated journey.</p>
+      <p class="text-slate-600 mb-6">Create your account to start a simulated journey — no backend required.</p>
 
       <form id="regForm" class="grid grid-cols-1 md:grid-cols-2 gap-4">
         <div>
@@ -84,58 +84,39 @@
           </nav>
         </div>
       </div>
-    
+
       <div class="p-8 space-y-12">
+        <!-- 5 content sections -->
+        <article id="paris" class="prose max-w-none">
+          <h3 class="text-2xl font-semibold">Paris — City of Lights</h3>
+          <p>Stroll along the Seine, sip coffee in Montmartre and admire the Eiffel Tower's twinkling lights. Ideal for romance, art lovers and anyone who appreciates croissants.</p>
+        </article>
 
-    <!-- PARIS -->
-    <article id="paris" class="prose max-w-none">
-      <img src="https://images.unsplash.com/photo-1502602898657-3e91760cbb34"
-           alt="Paris - Eiffel Tower"
-           class="w-full h-64 object-cover rounded-xl mb-4 shadow">
-      <h3 class="text-2xl font-semibold">Paris — City of Lights</h3>
-      <p>Stroll along the Seine, sip coffee in Montmartre and admire the Eiffel Tower's twinkling lights. Ideal for romance, art lovers and anyone who appreciates croissants.</p>
-    </article>
-    
-    <!-- TOKYO (SENSO-JI TEMPLE) -->
-    <article id="tokyo" class="prose max-w-none">
-      <img src="https://images.unsplash.com/photo-1549692520-acc6669e2f0c"
-           alt="Tokyo - Sensoji Temple"
-           class="w-full h-64 object-cover rounded-xl mb-4 shadow">
-      <h3 class="text-2xl font-semibold">Tokyo — Neon Metropolis</h3>
-      <p>From Shibuya crossings to tranquil temples, Tokyo blends futurism with tradition. Foodies will adore the ramen alleyways and izakaya culture.</p>
-    </article>
-    
-    <!-- ROME (COLOSSEUM) -->
-    <article id="rome" class="prose max-w-none">
-      <img src="https://images.unsplash.com/photo-1523473827532-9a1d9919a70f"
-           alt="Rome - Colosseum"
-           class="w-full h-64 object-cover rounded-xl mb-4 shadow">
-      <h3 class="text-2xl font-semibold">Rome — Ancient Wonders</h3>
-      <p>Walk the Colosseum, toss a coin into Trevi Fountain, and savor world-class gelato in narrow cobbled streets.</p>
-    </article>
-    
-    <!-- CAPE TOWN (TABLE MOUNTAIN) -->
-    <article id="cape" class="prose max-w-none">
-      <img src="https://images.unsplash.com/photo-1501594907352-04cda38ebc29"
-           alt="Cape Town - Table Mountain"
-           class="w-full h-64 object-cover rounded-xl mb-4 shadow">
-      <h3 class="text-2xl font-semibold">Cape Town — Coastal Charm</h3>
-      <p>From Table Mountain views to rugged coastlines, Cape Town is a dream for outdoor lovers and wine enthusiasts alike.</p>
-    </article>
-    
-    <!-- LOS ANGELES (HOLLYWOOD SIGN) -->
-    <article id="lax" class="prose max-w-none">
-      <img src="https://images.unsplash.com/photo-1504274066651-8d31a536b11a"
-           alt="Los Angeles - Hollywood Sign"
-           class="w-full h-64 object-cover rounded-xl mb-4 shadow">
-      <h3 class="text-2xl font-semibold">Los Angeles — Golden Dreams</h3>
-      <p>Sun, beaches and iconic entertainment — LA offers a taste of Hollywood glamour along with diverse neighborhoods and cuisine.</p>
-    </article>
+        <article id="tokyo" class="prose max-w-none">
+          <h3 class="text-2xl font-semibold">Tokyo — Neon Metropolis</h3>
+          <p>From Shibuya crossings to tranquil temples, Tokyo blends futurism with tradition. Foodies will adore the ramen alleyways and izakaya culture.</p>
+        </article>
 
+        <article id="rome" class="prose max-w-none">
+          <h3 class="text-2xl font-semibold">Rome — Ancient Wonders</h3>
+          <p>Walk the Colosseum, toss a coin into Trevi Fountain, and savor world-class gelato in narrow cobbled streets.</p>
+        </article>
 
+        <article id="cape" class="prose max-w-none">
+          <h3 class="text-2xl font-semibold">Cape Town — Coastal Charm</h3>
+          <p>From Table Mountain views to rugged coastlines, Cape Town is a dream for outdoor lovers and wine enthusiasts alike.</p>
+        </article>
 
+        <article id="lax" class="prose max-w-none">
+          <h3 class="text-2xl font-semibold">Los Angeles — Golden Dreams</h3>
+          <p>Sun, beaches and iconic entertainment — LA offers a taste of Hollywood glamour along with diverse neighborhoods and cuisine.</p>
+        </article>
 
-
+        <div class="text-center mt-6">
+          <button id="toPlanner" class="bg-emerald-600 text-white px-5 py-3 rounded-md shadow hover:bg-emerald-700">Plan Your Trip →</button>
+        </div>
+      </div>
+    </section>
 
     <!-- PAGE 3: Itinerary & Price Calculator -->
     <section id="page-planner" class="page bg-white rounded-2xl shadow-lg my-8 p-8 hidden-pane">
