@@ -89,8 +89,8 @@
         <!-- 5 content sections -->
         <article id="paris" class="prose max-w-none">
           <h3 class="text-2xl font-semibold">Paris — City of Lights</h3>
-          <img src="https://www.neweuropetours.eu/wp-content/uploads/2018/09/thio-paris-walking-tours-06-1600x900.jpg"
-          alt="Los Angeles - Hollywood Sign"
+          <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flovetovisitfrance.substack.com%2Fp%2Fwhy-is-paris-so-beautiful&psig=AOvVaw1VQC67IrGFxyyJJaLwYDiJ&ust=1763468144265000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJCMyvWU-ZADFQAAAAAdAAAAABAE"
+          alt="Paris"
           class="w-full h-64 object-cover rounded-xl mb-4 shadow">
           <p>Stroll along the Seine, sip coffee in Montmartre and admire the Eiffel Tower's twinkling lights. Ideal for romance, art lovers and anyone who appreciates croissants.</p>
         </article>
@@ -98,7 +98,7 @@
         <article id="tokyo" class="prose max-w-none">
           <h3 class="text-2xl font-semibold">Tokyo — Neon Metropolis</h3>
           <img src="https://png.pngtree.com/background/20230516/original/pngtree-tokyo-city-street-with-neon-lights-and-cars-lights-with-neon-picture-image_2598868.jpg"
-          alt="Los Angeles - Hollywood Sign"
+          alt="Tokyo"
           class="w-full h-64 object-cover rounded-xl mb-4 shadow">
           <p>From Shibuya crossings to tranquil temples, Tokyo blends futurism with tradition. Foodies will adore the ramen alleyways and izakaya culture.</p>
         </article>
@@ -106,7 +106,7 @@
         <article id="rome" class="prose max-w-none">
           <h3 class="text-2xl font-semibold">Rome — Ancient Wonders</h3>
           <img src="https://cdn-imgix.headout.com/microbrands-content-image/image/83c9cf517fd410bf813abab2c0b35cec-AdobeStock_381730746.jpeg"
-          alt="Los Angeles - Hollywood Sign"
+          alt="Rome"
           class="w-full h-64 object-cover rounded-xl mb-4 shadow">
           <p>Walk the Colosseum, toss a coin into Trevi Fountain, and savor world-class gelato in narrow cobbled streets.</p>
         </article>
@@ -114,7 +114,7 @@
         <article id="cape" class="prose max-w-none">
           <h3 class="text-2xl font-semibold">Cape Town — Coastal Charm</h3>
           <img src="https://www.holidify.com/images/cmsuploads/compressed/5181040406918bf543548k_20220714194551.jpg"
-          alt="Los Angeles - Hollywood Sign"
+          alt="Cape"
           class="w-full h-64 object-cover rounded-xl mb-4 shadow">
           <p>From Table Mountain views to rugged coastlines, Cape Town is a dream for outdoor lovers and wine enthusiasts alike.</p>
         </article>
@@ -122,7 +122,7 @@
         <article id="lax" class="prose max-w-none">
           <h3 class="text-2xl font-semibold">Los Angeles — Golden Dreams</h3>
           <img src="https://rare-gallery.com/thumbs/864481-Golden-Gate-Bridge-USA-Bridges-Los-Angeles-California.jpg"
-          alt="Los Angeles - Hollywood Sign"
+          alt="Los Angeles"
           class="w-full h-64 object-cover rounded-xl mb-4 shadow">
           <p>Sun, beaches and iconic entertainment — LA offers a taste of Hollywood glamour along with diverse neighborhoods and cuisine.</p>
         </article>
